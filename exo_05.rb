@@ -37,3 +37,5 @@ puts "Est-ce que 5 est superieur ou égal à -2 ?#{5 >= -2}"
 
 #puts false
 puts "Est-ce que 5 est inférieur ou égal -2? #{5 <= -2}"
+
+# #{} is a literal operator which forces Ruby to execute what's inside first and only then the rest of the line.
