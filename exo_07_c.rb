@@ -1,3 +1,3 @@
-user_name = gets.chomp
+gets.chomp = user_name
 
 puts user_name
